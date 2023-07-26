@@ -4,4 +4,9 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  daisyui: {
+    themes: false,
+  },
 };
+
+
